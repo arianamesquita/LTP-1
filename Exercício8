@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T13:49:40.279Z" agent="5.0 (Windows)" version="17.4.3" etag="iHtC_03aTAS9lv5izb75" type="github"><diagram id="xge0qI7XG2vhxQ-Ru0Al">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T14:18:18.797Z" agent="5.0 (Windows)" etag="WBDrNccFmuwK-KsFi6Es" version="17.4.3" type="github">
+  <diagram id="xge0qI7XG2vhxQ-Ru0Al" name="Page-1">
+    <mxGraphModel dx="548" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-2" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;&quot;Digite o valor do raio da esfera: &quot;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="22.5" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-3" value="&lt;div&gt;pi = (float) 3.14159;&lt;/div&gt;&lt;div&gt;x = (float) 4 / 3;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-4" value="volume = (long) ( x * pi * ( r * r * r));" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="230" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-5" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;&quot;O volume da esfera com raio &quot; + r + &quot;é de: &quot; + volume + &quot;.&quot; &lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="330" width="202.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-7" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="345" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcZSHEY65OeaPm-a5lZ_-1" target="rcZSHEY65OeaPm-a5lZ_-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="360" as="sourcePoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcZSHEY65OeaPm-a5lZ_-2" target="rcZSHEY65OeaPm-a5lZ_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="360" as="sourcePoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcZSHEY65OeaPm-a5lZ_-3" target="rcZSHEY65OeaPm-a5lZ_-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="360" as="sourcePoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcZSHEY65OeaPm-a5lZ_-4" target="rcZSHEY65OeaPm-a5lZ_-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="360" as="sourcePoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcZSHEY65OeaPm-a5lZ_-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcZSHEY65OeaPm-a5lZ_-5" target="rcZSHEY65OeaPm-a5lZ_-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="360" as="sourcePoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
