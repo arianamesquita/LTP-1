@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T20:34:30.510Z" agent="5.0 (Windows)" version="17.4.3" etag="Ab9sE47-UVWKsxfInkP8" type="github"><diagram id="xhce-b5nxxZhevEy6oIs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T20:43:03.386Z" agent="5.0 (Windows)" etag="SVPkGYTQr3znnR1NnVNK" version="17.4.3" type="github">
+  <diagram id="xhce-b5nxxZhevEy6oIs" name="Page-1">
+    <mxGraphModel dx="892" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k15xUoej8jaU2cEtnWPW-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k15xUoej8jaU2cEtnWPW-2" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Digite a distância &lt;br&gt;&lt;/div&gt;&lt;div&gt;percorrida pelo carro X:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="125" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k15xUoej8jaU2cEtnWPW-3" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Digite a distância &lt;br&gt;&lt;/div&gt;&lt;div&gt;percorrida pelo carro Y:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k15xUoej8jaU2cEtnWPW-4" value="&lt;div&gt;Distância = carro Y - carro X&lt;/div&gt;&lt;div&gt;minutos = Distância * 2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k15xUoej8jaU2cEtnWPW-5" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;O tempo que o carro X leva para percorrer a distância de Y que é de: + D + &quot; kms é de &quot; + minutos + &quot; minutos.&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k15xUoej8jaU2cEtnWPW-6" value="Saída" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
