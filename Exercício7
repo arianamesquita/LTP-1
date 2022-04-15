@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T13:37:57.255Z" agent="5.0 (Windows)" version="17.4.3" etag="WvXDOs7nHo807sWCo2yC" type="github"><diagram id="BI5-RMdiYuEw5499rOUF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T13:49:26.971Z" agent="5.0 (Windows)" etag="RHtN9-fBYR-wBrmR_FME" version="17.4.3" type="github">
+  <diagram id="BI5-RMdiYuEw5499rOUF" name="Page-1">
+    <mxGraphModel dx="548" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-1" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="425" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-2" value="Entrada &quot;Nome do vendedor:&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="35" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-3" value="&lt;div&gt;Entrada &quot;Digite o salário &lt;br&gt;&lt;/div&gt;&lt;div&gt;fixo do vendedor:&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="35" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-4" value="&lt;div&gt;Entrada &quot;Digite o total de &lt;br&gt;&lt;/div&gt;&lt;div&gt;vendas feitas por este &lt;br&gt;&lt;/div&gt;&lt;div&gt;vendedor este mês:&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="143" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-5" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;Salário Total = Salário Fixo + (15 x Total vendas do mês) / 100&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="260" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-6" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;&quot;O vendedor&quot; + nome + &quot; tem o salário fixo de &quot; + salário fixo + &quot;fez um total de &quot; + total vendas do mês + &quot;vendas e receberá este mês um total de &quot; + salário total + &quot;.&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="391" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-7" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2V6SAi2Fd2LsPnMVsabb-7" target="2V6SAi2Fd2LsPnMVsabb-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2V6SAi2Fd2LsPnMVsabb-2" target="2V6SAi2Fd2LsPnMVsabb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2V6SAi2Fd2LsPnMVsabb-3" target="2V6SAi2Fd2LsPnMVsabb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2V6SAi2Fd2LsPnMVsabb-4" target="2V6SAi2Fd2LsPnMVsabb-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2V6SAi2Fd2LsPnMVsabb-5" target="2V6SAi2Fd2LsPnMVsabb-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2V6SAi2Fd2LsPnMVsabb-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.005;exitY=0.454;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2V6SAi2Fd2LsPnMVsabb-6" target="2V6SAi2Fd2LsPnMVsabb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
