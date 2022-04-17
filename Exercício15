@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T17:59:07.696Z" agent="5.0 (Windows)" version="17.4.3" etag="zQbEnirsTXAf7kF5C_Um" type="github"><diagram id="OTsEv2rBXmAlk-JMgf7L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T18:16:10.292Z" agent="5.0 (Windows)" etag="XyHMms9JjbXPUHXGQMav" version="17.4.3" type="github">
+  <diagram id="OTsEv2rBXmAlk-JMgf7L" name="Page-1">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cC0NXEduwe5fZkJb-639-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC0NXEduwe5fZkJb-639-2" target="cC0NXEduwe5fZkJb-639-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-2" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com o primeiro número:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="95" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC0NXEduwe5fZkJb-639-3" target="cC0NXEduwe5fZkJb-639-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-3" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com o segundo número:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="95" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC0NXEduwe5fZkJb-639-4" target="cC0NXEduwe5fZkJb-639-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-4" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com o terceiro número:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC0NXEduwe5fZkJb-639-5" target="cC0NXEduwe5fZkJb-639-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-5" value="&lt;div&gt;Calcular:&lt;/div&gt;&lt;div&gt;if (num1 &amp;gt;= num2 &amp;amp;&amp;amp; num1 &amp;gt;= num3)&lt;/div&gt;&lt;div&gt;else if (num2 &amp;gt;= num1 &amp;amp;&amp;amp; num2 &amp;gt;= num3)&lt;/div&gt;&lt;div&gt;else&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC0NXEduwe5fZkJb-639-6" target="cC0NXEduwe5fZkJb-639-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-6" value="&lt;div&gt;Imprime depois de cada cálculo acima (por isso não coloca &quot;;&quot;&amp;nbsp; no final.&lt;/div&gt;&lt;div&gt;(num1 + &quot;é o maior entre os números.&quot;);&lt;/div&gt;&lt;div&gt;(num2 + &quot;é o maior entre os números.&quot;);&lt;/div&gt;&lt;div&gt;(num3 + &quot;é o maior entre os números.&quot;);&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="440" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-7" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="470" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cC0NXEduwe5fZkJb-639-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC0NXEduwe5fZkJb-639-1" target="cC0NXEduwe5fZkJb-639-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="sourcePoint" />
+            <mxPoint x="530" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
