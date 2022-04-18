@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T21:36:46.389Z" agent="5.0 (Windows)" version="17.4.3" etag="rQqy2XYs3wEgiK0sdGzi" type="github"><diagram id="P3-mhZR1ifO35VwQDmkJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-18T22:24:04.956Z" agent="5.0 (Windows)" etag="Nzv31gvJvjH8Ob_KeaEB" version="17.4.3" type="github">
+  <diagram id="P3-mhZR1ifO35VwQDmkJ" name="Page-1">
+    <mxGraphModel dx="868" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jwYozBRgcFB1jETqOiTy-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwYozBRgcFB1jETqOiTy-2" target="jwYozBRgcFB1jETqOiTy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwYozBRgcFB1jETqOiTy-2" target="jwYozBRgcFB1jETqOiTy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-2" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Digite a sua idade:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwYozBRgcFB1jETqOiTy-3" target="jwYozBRgcFB1jETqOiTy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-3" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (idade &amp;lt; 18)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-4" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;&quot;Você não tem idade suficiente para entrar nesta festa! A idade mínima permitida é de 18 anos!&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="300" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwYozBRgcFB1jETqOiTy-5" target="jwYozBRgcFB1jETqOiTy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-5" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (idade &amp;gt;= 18)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-6" value="&lt;div&gt;Imprime:&lt;/div&gt;&quot;Você pode entrar na festa! Seja bem vindo!&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="300" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jwYozBRgcFB1jETqOiTy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jwYozBRgcFB1jETqOiTy-1" target="jwYozBRgcFB1jETqOiTy-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="sourcePoint" />
+            <mxPoint x="500" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
