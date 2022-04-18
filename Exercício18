@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T12:48:37.045Z" agent="5.0 (Windows)" version="17.4.3" etag="ZiGMDc8i46wamKdYllG6" type="github"><diagram id="9_m9KOe28RZM0nVnlu4o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-18T13:05:55.634Z" agent="5.0 (Windows)" etag="Jy5hv-ijSn73a3y0mk-G" version="17.4.3" type="github">
+  <diagram id="9_m9KOe28RZM0nVnlu4o" name="Page-1">
+    <mxGraphModel dx="868" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="taftauqLvQn9zxBrjPwO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-1" target="taftauqLvQn9zxBrjPwO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-2" target="taftauqLvQn9zxBrjPwO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-2" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com a velocidade permitida na via:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="45" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-4" target="taftauqLvQn9zxBrjPwO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-4" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (velocidade via &amp;gt;= 100);&lt;/div&gt;&lt;div&gt;limite da via = (100 + (0.07*100));&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="45" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-5" target="taftauqLvQn9zxBrjPwO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-5" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (velocidade via &amp;lt;100);&lt;/div&gt;&lt;div&gt;limite da via = velocidade via + 7;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="45" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-6" target="taftauqLvQn9zxBrjPwO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-6" target="taftauqLvQn9zxBrjPwO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-6" target="taftauqLvQn9zxBrjPwO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-6" target="taftauqLvQn9zxBrjPwO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-6" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com a velocidade registrada pelo veículo:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="453" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-7" target="taftauqLvQn9zxBrjPwO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-7" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (velocidade carro &amp;gt; limite via) &amp;amp;&amp;amp; velocidade carro &amp;lt;= (velocidade via + (0.2 * velocidade via)) &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="199" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-8" target="taftauqLvQn9zxBrjPwO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-8" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;Infração média. A velocidade permitida é de: + limite via + A velocidade registrada foi de: velocidade carro + A multa por esta infração é de R$ 130,16&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="164" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-9" target="taftauqLvQn9zxBrjPwO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-9" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (velocidade carro &amp;gt;=&amp;nbsp; (velocidade via + (0.2 * velocidade via))&amp;nbsp; &amp;amp;&amp;amp; (velocidade carro &amp;lt;= (velocidade via + (0.5* velocidade via))))&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="344" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-10" target="taftauqLvQn9zxBrjPwO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-10" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;Infração grave. A velocidade permitida é de: + limite via + A velocidade registrada foi de: velocidade carro + A multa por esta infração é de R$ 195,23&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="324" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-11" target="taftauqLvQn9zxBrjPwO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-11" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (velocidade carro &amp;lt; velocidade via)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="694" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-12" target="taftauqLvQn9zxBrjPwO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-12" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;Infração gravíssima. A velocidade permitida é de: + limite via + A velocidade registrada foi de: velocidade carro + A multa por esta infração é de R$ 880,41&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="499" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-13" target="taftauqLvQn9zxBrjPwO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-13" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (velocidade carro &amp;gt; velocidade via&amp;nbsp; + 0.5 * velocidade via)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="534" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="taftauqLvQn9zxBrjPwO-14" target="taftauqLvQn9zxBrjPwO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-14" value="Velocidade legal!" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="686.5" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-15" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="204" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-16" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="364" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-17" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="539" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="taftauqLvQn9zxBrjPwO-18" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="699" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
