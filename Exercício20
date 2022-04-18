@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T22:24:20.316Z" agent="5.0 (Windows)" version="17.4.3" etag="v0A2DztPtHk_9KBHsiDX" type="github"><diagram id="bv7jZwqjqOx_iAexwvJ9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-18T22:34:07.627Z" agent="5.0 (Windows)" etag="a1KE_tFvNWrvHxVgie21" version="17.4.3" type="github">
+  <diagram id="bv7jZwqjqOx_iAexwvJ9" name="Page-1">
+    <mxGraphModel dx="868" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qEvo_srTprkanYPC3zDS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-1" target="qEvo_srTprkanYPC3zDS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-2" target="qEvo_srTprkanYPC3zDS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-2" target="qEvo_srTprkanYPC3zDS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-2" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com a primeira dimensão do triângulo:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="55" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-3" target="qEvo_srTprkanYPC3zDS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-3" target="qEvo_srTprkanYPC3zDS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-3" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com a segunda dimensão do triângulo:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="55" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-4" target="qEvo_srTprkanYPC3zDS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-4" value="&lt;div&gt;Entrada:&lt;/div&gt;&lt;div&gt;Entre com a terceira dimensão do triângulo:&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="55" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-5" target="qEvo_srTprkanYPC3zDS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-5" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (A == B &amp;amp;&amp;amp; A == C &amp;amp;&amp;amp; B == C)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-6" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;&quot;Este é um triângulo equilátero pois todos os lados possuem a mesma dimensão.&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="310" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-7" target="qEvo_srTprkanYPC3zDS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-7" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (A == B &amp;amp;&amp;amp; A != C &amp;amp;&amp;amp; B != C)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-8" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;&quot;Este é um triângulo isósceles porque possui dois lados iguais e um diferente.&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="310" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEvo_srTprkanYPC3zDS-9" target="qEvo_srTprkanYPC3zDS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-9" value="&lt;div&gt;Calcule:&lt;/div&gt;&lt;div&gt;if (A != B &amp;amp;&amp;amp; A != C &amp;amp;&amp;amp; B != C)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEvo_srTprkanYPC3zDS-10" value="&lt;div&gt;Imprime:&lt;/div&gt;&lt;div&gt;&quot;Este é um triângulo escaleno porque possui todos os lados com dimensões diferentes.&quot;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="310" width="185" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
